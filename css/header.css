@@ -1,0 +1,101 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+header {
+    height: 160px;
+    background-image: linear-gradient(to right,rgba(194, 249, 239, 0.657),rgb(185, 233, 233));
+    height: 600px;
+}
+.logo {
+    margin-left: 190px;
+}
+
+.nomeLogo {
+    display: flex;
+    margin-left: 240px;
+    margin-top: -75px;
+    padding: 20px;
+    font-size: 25px;
+    font-family:'Lilita One', sans-serif;;
+}
+
+.cor_nomeLogo {
+    color: rgba(128, 0, 128, 0.752);
+}
+
+.posicao_botao {
+    display: flex;
+    justify-content: center;
+    margin-left: 1520px;
+    margin-top: -55px;
+}
+
+.posicao_itens_header ul {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    text-decoration: none;
+    list-style: none;
+    width: 400px;
+    margin-left: 1300px;
+    margin-top: -80px;
+}
+
+.itens_header a {
+    text-decoration: none;
+    color: rgb(83, 120, 152);
+    font-family: 'Roboto', sans-serif;
+}
+
+.botao_de_login {
+    background-color: rgb(0, 157, 255);
+    border-radius: 10px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding: 20px;
+    width: 100px;
+    margin-top: -200px;
+    border: none;
+}
+
+.background_titulo {
+    font-size: 40px;
+    font-family: 'Alfa Slab One', serif;
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.background_subtitulo {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.botao_de_interesse {
+    background-color: rgb(0, 157, 255);
+    border-radius: 7px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding: 15px;
+    width: 160px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: none;
+}
+
+.fotoPrincipal {
+    margin-left: 1100px;
+    margin-top: -320px;
+}
