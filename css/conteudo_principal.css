@@ -140,3 +140,47 @@
     font-family: 'Lilita One', sans-serif;
     color: rgb(49, 114, 244);
 }
+
+.personalizacao_titulo_servicos {
+    font-family: 'Lilita One', sans-serif;
+    font-size: 40px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.personalizacao_subtitulo_servicos {
+    font-family: 'roboto';
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+}
+
+.posicao_conheca_servicos {
+    margin-top: 150px;
+}
+
+.posicao_cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    padding: 30px;
+}
+
+.background_nossos_profissionais {
+    background-image: linear-gradient(to right,rgba(194, 249, 239, 0.657),rgb(185, 233, 233));
+    height: 700px;
+}
+
+.nossos_profissionais {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    font-family: 'Lilita One', sans-serif;
+    margin-top: -650px;
+}
+
+.img_dentista {
+    width: 500px;
+    margin-left: 1300px;
+}
