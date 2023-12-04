@@ -1,0 +1,59 @@
+.rodape_pagina {
+    display: flex;
+    background-color: rgb(14, 33, 65);
+    height: 230px;
+}
+
+.logo_rodape {
+    width: 70px;
+}
+
+.nomeLogo1 {
+    display: flex;
+    margin-left: 55px;
+    margin-top: -110px;
+    padding: 20px;
+    font-size: 30px;
+    font-family:'Lilita One', sans-serif;;
+}
+
+.containeir1 {
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.containeir2 {
+    display: flex;
+    margin-left: 300px;
+    margin-top: 90px;
+}
+.containeir2 li {
+    padding: 10px;
+}
+
+.containeir3 {
+    display: flex;
+    margin-left: 600px;
+    margin-top: 90px;
+}
+
+.containeir3 li {
+    padding: 10px;
+}
+
+.titulo_da_navegacao {
+    display: flex;
+    width: 798px;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: -825px;
+    font-family: 'Alfa Slab One', serif;
+    color: white;
+}
+
+.personalizacao_rodape {
+    list-style-type: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+}
